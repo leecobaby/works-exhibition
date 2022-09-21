@@ -1,0 +1,32 @@
+{
+  "works": [
+    {
+      "title": "React 旅游网",
+      "url": "http://study-react-travel-1251309300.cos-website.ap-shanghai.myqcloud.com/",
+      "date": "2021",
+      "description": "React+Typescript+Redux+ReactRouter+Antd"
+    },
+    {
+      "title": "机器人购物商城",
+      "url": "https://study-robot-gallery.vercel.app/",
+      "description": "React+Typescript"
+    },
+    {
+      "title": "留言板前后端系统",
+      "url": "https://study-message-board-web.vercel.app/",
+      "description": "Vue2+Node+Koa2+Mongodb"
+    },
+    {
+      "title": "外卖商城购物系统",
+      "url": "https://github.com/",
+      "date": "2020",
+      "description": "Vue+Node+Koa2+Mongodb"
+    },
+    {
+      "title": "更多作品整理中...",
+      "url": "",
+      "date": "",
+      "description": "作品整理中..."
+    }
+  ]
+}
